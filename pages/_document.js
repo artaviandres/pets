@@ -6,7 +6,7 @@ export default class MyDocument extends Document {
 			<html lang="en">
 				<Head>
 					<title>
-						Sureal Music - a digital music platform for artists and fans
+						Pets
 					</title>
 					<meta
 						name="viewport"
@@ -27,6 +27,7 @@ export default class MyDocument extends Document {
 					body {
                         margin: 0;
                         background-color: #F5F5F5;
+                        overflow: hidden;
 					}
 				`}</style>
 			</html>
